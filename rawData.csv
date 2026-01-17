@@ -1,0 +1,7 @@
+Age   Salary   City
+25    50000    Delhi
+NaN   90000    Mumbai
+45    NaN      Delhi
+200   -5000    Kashmir
+30    60000    Mumbai
+35    70000    NaN
